@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    padding: 20px;
+    color: red;
+}
+
+.recipe {
+    border: 10px dotted red;
+    margin: 5px;
+    padding: 10px;
+}
+
+li {
+    background-color: rgb(194, 227, 238);
+    border-radius: 80px;
+    margin: 5px;
+    padding: 50px;
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+}
